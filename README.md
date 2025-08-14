@@ -26,6 +26,7 @@ make test
 ```sh
 make lint
 ```
+[![ci](https://github.com/thaidem/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/thaidem/hexlet-ci-app/actions/workflows/ci.yml)
 
 ---
 
